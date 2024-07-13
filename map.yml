@@ -1,0 +1,4 @@
+map_name: War_of_Nations
+games:
+- {game_name: War of Nations 3.0 Final, file_name: War_of_Nations.xml}
+version: 0
